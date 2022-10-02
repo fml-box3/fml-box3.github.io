@@ -37,9 +37,9 @@ p {
 .button {
     display: inline-block;
     border-radius: 4px;
-    background-color: #0070f3;
+    background-color: DeepSkyBlue;
     border: none;
-    color: #ffffff;
+    color: white;
     text-align: center;
     font-size: 28px;
     padding: 20px;
@@ -58,7 +58,7 @@ p {
 }
 
 .button span:after {
-    content: '»';
+    content: '=>';
     position: absolute;
     opacity: 0;
     top: 0;
