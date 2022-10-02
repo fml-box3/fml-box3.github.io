@@ -58,11 +58,11 @@ p {
 }
 
 .button span:after {
-    content: '>';
+    content: '~>';
     position: absolute;
     opacity: 0;
     top: 0;
-    right: -25px;
+    right: -40px;
     transition: 0.5s;
 }
 
