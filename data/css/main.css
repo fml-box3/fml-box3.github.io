@@ -49,3 +49,10 @@ p {
     margin: 5px;
     box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
 }
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
