@@ -41,7 +41,7 @@ p {
     border: none;
     color: white;
     text-align: center;
-    font-size: 28px;
+    font-size: 2em;
     padding: 20px;
     width: 200px;
     transition: all 0.5s;
@@ -67,7 +67,7 @@ p {
 }
 
 .button:hover span {
-    padding-right: 25px;
+    padding-right: 20px;
 }
 
 .button:hover span:after {
