@@ -2,37 +2,37 @@ body {background-color:DeepSkyBlue;}
 h1 {
     color:white;
     font-size:2.5em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 h2 {
     color:white;
     font-size:2.0em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 h3 {
     color:white;
     font-size:1.75em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 h4 {
     color:white;
     font-size:1.5em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 h5 {
     color:white;
     font-size:1.25em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 h6 {
     color:white;
     font-size:1.0em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 p {
     color:white;
     font-size:0.8em;
-    font-family:Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+    font-family:Comic Sans MS, Harmony OS Sans, cursive, sans-serif;
 }
 .button {
     display: inline-block;
