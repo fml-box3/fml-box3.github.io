@@ -69,6 +69,6 @@ content a {
 content a:hover {
     background-color: Aqua;
 }
-.active {
-    background-color: #4bb3c5;
+.now {
+    background-color: AliceBlue;
 }
