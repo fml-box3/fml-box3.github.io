@@ -60,18 +60,9 @@ p {
     box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
 }
 
-banner {
-    list-style-type: none;
-    margin: 0;
-    padding: 2000px 50px;
-    overflow: hidden;
-    background-color: cyan;
-}
-
 content {
     float: left;
 }
-
 content a {
     display: block;
     color: white
@@ -80,11 +71,16 @@ content a {
     text-decoration: none;
     background-color: DodgerBlue;
 }
-
 content a:hover {
     background-color: Aqua;
+}.now {
+    background-color: DeepSkyBlue;
 }
 
-.now {
-    background-color: DeepSkyBlue;
+banner {
+    list-style-type: none;
+    margin: 0;
+    padding: 50px 2000px
+    overflow: hidden;
+    background-color: cyan;
 }
