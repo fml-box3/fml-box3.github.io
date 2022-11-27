@@ -63,7 +63,7 @@ p {
 banner {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 1500px 35px;
     overflow: hidden;
     background-color: cyan;
 }
