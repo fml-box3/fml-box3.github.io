@@ -80,7 +80,7 @@ content a:hover {
 banner {
     list-style-type: none;
     margin: 0;
-    padding: 50px 2000px;
+    padding: 50px 1000px 0px 1000px;
     overflow: hidden;
     background-color: cyan;
 }
