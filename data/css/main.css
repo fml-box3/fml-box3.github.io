@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: DeepSkyBlue;
 }
 
 h1 {
@@ -47,7 +47,7 @@ p {
 .button {
     display: inline-block;
     border-radius: 4px;
-    background-color: black;
+    background-color: DodgerBlue;
     border: none;
     color: white;
     text-align: center;
@@ -65,16 +65,16 @@ content {
 }
 content a {
     display: block;
-    color: white
+    color: DodgerBlue
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     background-color: black;
 }
 content a:hover {
-    background-color: black;
+    background-color: DodgerBlue;
 }.now {
-    background-color: black;
+    background-color: DeepSkyBlue;
 }
 
 banner {
@@ -82,5 +82,5 @@ banner {
     margin: 0;
     padding: 50px 700px 50px 700px;
     overflow: hidden;
-    background-color: black;
+    background-color: cyan;
 }
