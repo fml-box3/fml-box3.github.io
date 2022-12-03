@@ -8,5 +8,5 @@ function more(){
 	iframe.src = 'https://baike.baidu.com/'
 	iframe.width = 800;
 	iframe.height = 600;
-	div.appendChild(iframe)
+	div.appendChild(iframe);
 }
