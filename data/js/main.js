@@ -1,4 +1,4 @@
-if (new Date().getDate() == 6) {
+if (false) {
     const addhtml = ((position, localName, data, html) => {
         var newHtml = document.createElement(localName);
         for (var name in data) {
