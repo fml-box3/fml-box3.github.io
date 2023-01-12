@@ -44,6 +44,12 @@ p {
     font-family: 楷体,Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
 }
 
+ol {
+    color: gray;
+    font-size: 1.0em;
+    font-family: 宋体,Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+}
+
 li {
     color: gray;
     font-size: 0.8em;
