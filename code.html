@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="/data/img/head-portrait.png">
+	<link rel="stylesheet" href="/data/css/main.css">
+	<script src="/data/js/main.js"></script>
+	<script src="/data/js/code.js"></script>
+	<title>FML饭米粒</title>
+</head>
+<body>
+	<div>
+		<content>
+			<a href="/main.html">主页</a>
+		</content>
+		<content>
+			<a href="/project.html">所有作品</a>
+		</content>
+		<content>
+			<a href="/code.html" class="now">代码合集</a>
+		</content>
+	</div>
+	<div algin="center">
+		<h4>反外挂代码</h4>
+		<p>主要功能：</p>
+		<ol>
+			<li>反飞行挂（反浮空挂）{可选}</li>
+			<li>反连点{可选}</li>
+			<li>反长文本刷屏{可选}</li>
+		</ol>
+		<p>使用说明：复制就完了</p>
+		<button onclick="copy_Anti_cheating">一键复制</button>
+		<code id="Anti_cheating">
+console.clear()
+function $(func) {
+    try {
+        func()
+    } catch (error) {
+        console.warn(error + ' at anti cheating')
+    }
+}
+$(() => {
+    class Anti_cheating {
+        /**
+         * @param{Boolean} fly 反飞行
+         * @param{Boolean} click 反连点
+         * @param{Boolean} chat 反刷屏
+         */
+        constructor(fly, click, chat) {
+            $(() => {
+                console.log(`Anti cheating loading`)
+                this.fly = fly
+                this.click = click
+                this.chat = chat
+                console.log(`Anti cheating load done: fly: ${this.fly}, click: ${this.click}, chat: ${this.chat}`)
+            })
+        }
+        /**
+         * @param{Box3Entity} entity
+         */
+        async ticker(entity) {
+            let result = []
+            $(() => {
+                if (this.fly) {
+                    $(() => {
+                        entity.fly = 0
+                        console.log(`Anti cheating fly ticker start: player: ${entity.player.name}`)
+                        let fly_ticker = setInterval(() => {
+                            $(() => {
+                                let { x, y, z } = entity.position
+                                if (voxels.getVoxel(x, y - 2, z) != 0/*entity.player.moveState == Box3PlayerMoveState.GROUND*/) {
+                                    $(() => {
+                                        entity.fly = 0
+                                    })
+                                }
+                                if (entity.velocity.y >= 0 && voxels.getVoxel(x, y - 2, z) == 0 /*entity.player.moveState != Box3PlayerMoveState.GROUND/* && entity.player.moveState != Box3PlayerMoveState.JUMP && entity.player.moveState != Box3PlayerMoveState.DOUBLE_JUMP*/ && !entity.player.canFly) {
+                                    $(() => {
+                                        entity.fly++
+                                        console.log(`Anti cheating catch fly: player: ${entity.player.name}, fly: ${entity.fly}`)
+                                    })
+                                }
+                                if (entity.fly > 100) {
+                                    $(() => {
+                                        world.say(`@${entity.player.name}因为涉嫌浮空被踢出服务器！`)
+                                        entity.player.kick()
+                                        entity.fly = 0
+                                    })
+                                }
+                            })
+                        }, 50)
+                        result.push(fly_ticker)
+                    })
+                }
+                if (this.click) {
+                    $(() => {
+                        entity.click = 0
+                        console.log(`Anti cheating click ticker start: player: ${entity.player.name}`)
+                        let press = entity.player.onPress(() => entity.click++)
+                        let click_ticker = setInterval(() => {
+                            $(() => {
+                                if (entity.click >= 25) {
+                                    $(() => {
+                                        world.say(`@${entity.player.name}因为涉嫌连点被踢出服务器！`)
+                                        entity.player.kick()
+                                    })
+                                }
+                                console.log(`Anti cheating catch click: player: ${entity.player.name}, click: ${entity.click}`)
+                                entity.click = 0
+                            })
+                        }, 1000)
+                        result.push(press)
+                        result.push(click_ticker)
+                    })
+                }
+                if (this.chat) {
+                    $(() => {
+                        console.log(`Anti cheating chat ticker start: player: ${entity.player.name}`)
+                        let chat = entity.player.onChat(({ message }) => {
+                            $(() => {
+                                console.log(`Anti cheating catch chat: player: ${entity.player.name}, length: ${message.length}`)
+                                if (message.length >= 1000) {
+                                    $(() => {
+                                        world.say(`@${entity.player.name}因为涉嫌长文本刷屏被踢出服务器！`)
+                                        entity.player.kick()
+                                    })
+                                }
+                            })
+                        })
+                        result.push(chat)
+                    })
+                }
+            })
+            return result
+        }
+    }
+    let func = new Anti_cheating(true/*反飞行*/, true/*反连点*/, true/*反长文本刷屏*/)
+    world.onPlayerJoin(({ entity }) => {
+        $(async () => {
+            entity.ticker = await func.ticker(entity)
+        })
+    })
+    world.onPlayerLeave(({ entity }) => {
+        $(() => {
+            entity.ticker.forEach((ticker) => {
+                try {
+                    clearInterval(ticker)
+                } catch (error) {
+                    ticker.cancel()
+                }
+            })
+        })
+    })
+})
+		</code>
+	</div>
+	<div align="right">
+		<p>本网站源代码已开源</p>
+		<p>开源协议：</p>
+		<a href="https://www.gnu.org/licenses/gpl-3.0-standalone.html">GPL-3.0</a>
+		<p>源代码下载：</p>
+		<a href="https://github.com/fml-box3">github.com/fml-box3</a>
+	</div>
+</body>
+			
