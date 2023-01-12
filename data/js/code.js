@@ -1,6 +1,4 @@
 function copy_Anti_cheating(){
-    var copy = document.getElementById("Anti_cheating");
-    copy.select();
-    copy.setSelectionRange(0, 99999);
-    navigator.clipboard.writeText(copy.value);
+    navigator.clipboard.writeText(document.getElementById("Anti_cheating").innerHTML);
+    alert('已复制到剪贴板')
 }
