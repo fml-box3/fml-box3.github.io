@@ -44,6 +44,12 @@ p {
     font-family: 楷体,Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
 }
 
+li {
+    color: gray;
+    font-size: 0.8em;
+    font-family: 楷体,Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+}
+
 .button {
     display: inline-block;
     border-radius: 4px;
