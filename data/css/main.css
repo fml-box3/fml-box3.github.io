@@ -112,3 +112,45 @@ footer {
     -o-animation: fade 0.75s;
     -ms-animation: fade 0.75s;
 }
+
+.card {
+     margin: 0 auto;
+     height: 400px;
+     width: 270px;
+     margin: 30px;
+     box-shadow: 5px 5px 20px rgba(255, 0, 0, 0.5);
+     border-radius: 15px;
+     background: rgba(255, 0, 0, 0.747);
+     border-top: 1px solid rgba(255, 81, 81, 0.5);
+     border-left: 1px solid rgba(255, 81, 81, 0.5);
+}
+.card .content {
+     margin: 0 auto;
+     padding: 20px;
+     text-align: center;
+     transition: 0.5s;
+}
+
+.card .content h2 {
+     font-family: Harmony OS Sans;
+     margin: 0 auto;
+     position: absolute;
+     top: -60px;
+     right: 1px;
+     font-size: 10em;
+     color: rgb(255, 255, 255);
+     pointer-events: none;
+}
+.card .content h3 {
+     font-family: Harmony OS Sans;
+     margin: 0 auto;
+     font-size: 1.8em;
+     color: rgb(255, 255, 255);
+     z-index: 1;
+}
+.card .content p {
+     font-family: Harmony OS Sans;
+     font-size: 1em;
+     color: rgb(255, 255, 255);
+     font-weight: 300;
+}
