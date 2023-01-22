@@ -96,3 +96,19 @@ banner {
     overflow: hidden;
     background-color: cyan;
 }
+
+footer {
+    text-align: center;
+    height: 46px;
+    backdrop-filter: blur(10px);
+    background: rgb(0 0 0 / 25%);
+}
+.power {
+    line-height: 46px;
+    color: #eeeeee;
+    animation: fade;
+    -webkit-animation: fade 0.75s;
+    -moz-animation: fade 0.75s;
+    -o-animation: fade 0.75s;
+    -ms-animation: fade 0.75s;
+}
