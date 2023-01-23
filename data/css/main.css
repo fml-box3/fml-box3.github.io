@@ -158,8 +158,8 @@ footer {
      font-weight: 300;
 }
 .card .content .title {
-     font-family: Harmony OS Sans;
-     font-size: small;
+     font-family: 黑体;
+     font-size: 1.2em;
      position: relative;
      display: inline-block;
      padding: 10px 20px;
