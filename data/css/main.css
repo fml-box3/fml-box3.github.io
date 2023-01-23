@@ -90,7 +90,7 @@ content a {
     background-color: cyan;
 }
 content a:hover {
-    background-color: DodgerBlue;
+    background-color: aliceblue;
 }.now {
     background-color: DeepSkyBlue;
 }
