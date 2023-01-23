@@ -83,7 +83,7 @@ content {
 }
 content a {
     display: block;
-    color: DodgerBlue
+    color: DodgerBlue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
