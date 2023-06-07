@@ -1,4 +1,4 @@
-(async function () => {
+(async function () {
 	 function sleep(ms) {
 	    return new Promise(function (resolve, reject) {
 		setTimeout(() => {
