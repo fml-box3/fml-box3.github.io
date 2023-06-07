@@ -32,4 +32,9 @@
 			show(error)
 		}
 	}
+	Object.assign(globalThis, {
+		clean,
+		show,
+		run
+	})
 })()
