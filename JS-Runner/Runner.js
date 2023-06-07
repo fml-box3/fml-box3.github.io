@@ -27,7 +27,7 @@
 	function run(){
 		clean()
 		try {
-			eval(code)
+			eval(code.value)
 		} catch(error) {
 			show(error)
 		}
