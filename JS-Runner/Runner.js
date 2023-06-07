@@ -28,6 +28,7 @@
 		clean()
 		try {
 			eval(code.value)
+			show('done')
 		} catch(error) {
 			show(error)
 		}
