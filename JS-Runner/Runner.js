@@ -27,8 +27,8 @@
 	function run(){
 		clean()
 		try {
-			eval(code.value)
-			show('done')
+			show(eval(code.value))
+			show('Run successfully ended')
 		} catch(error) {
 			show(error)
 		}
