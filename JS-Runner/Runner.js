@@ -25,7 +25,7 @@
 		out.value = value
 	}
 	function run(){
-		(async() {
+		(async () => {
 			try {
 				show(eval(code.value))
 				show('Run successfully ended')
