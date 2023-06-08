@@ -35,16 +35,16 @@
 			<li>反长文本刷屏{可选}</li>
 		</ol>
 		<p>使用说明：复制就完了</p>
-		<button onclick="copy_Anti_cheating">一键复制</button>
+		<button onclick="copy_Anti_cheating()">一键复制</button>
 		<p id="Anti_cheating">
-console.clear()
+console.clear();
 function $(func) {
     try {
-        func()
+        func();
     } catch (error) {
-        console.warn(error + ' at anti cheating')
-    }
-}
+        console.warn(error + ' at anti cheating');
+    };
+};
 $(() => {
     class Anti_cheating {
         /**
@@ -54,109 +54,109 @@ $(() => {
          */
         constructor(fly, click, chat) {
             $(() => {
-                console.log(`Anti cheating loading`)
-                this.fly = fly
-                this.click = click
-                this.chat = chat
-                console.log(`Anti cheating load done: fly: ${this.fly}, click: ${this.click}, chat: ${this.chat}`)
-            })
+                console.log(`Anti cheating loading`);
+                this.fly = fly;
+                this.click = click;
+                this.chat = chat;
+                console.log(`Anti cheating load done: fly: ${this.fly}, click: ${this.click}, chat: ${this.chat}`);
+            });
         }
         /**
          * @param{Box3Entity} entity
          */
         async ticker(entity) {
-            let result = []
+            let result = [];
             $(() => {
                 if (this.fly) {
                     $(() => {
-                        entity.fly = 0
-                        console.log(`Anti cheating fly ticker start: player: ${entity.player.name}`)
+                        entity.fly = 0;
+                        console.log(`Anti cheating fly ticker start: player: ${entity.player.name}`);
                         let fly_ticker = setInterval(() => {
                             $(() => {
-                                let { x, y, z } = entity.position
+                                let { x, y, z } = entity.position;
                                 if (voxels.getVoxel(x, y - 2, z) != 0/*entity.player.moveState == Box3PlayerMoveState.GROUND*/) {
                                     $(() => {
-                                        entity.fly = 0
-                                    })
-                                }
+                                        entity.fly = 0;
+                                    });
+                                };
                                 if (entity.velocity.y >= 0 && voxels.getVoxel(x, y - 2, z) == 0 /*entity.player.moveState != Box3PlayerMoveState.GROUND/* && entity.player.moveState != Box3PlayerMoveState.JUMP && entity.player.moveState != Box3PlayerMoveState.DOUBLE_JUMP*/ && !entity.player.canFly) {
                                     $(() => {
-                                        entity.fly++
-                                        console.log(`Anti cheating catch fly: player: ${entity.player.name}, fly: ${entity.fly}`)
-                                    })
-                                }
+                                        entity.fly++;
+                                        console.log(`Anti cheating catch fly: player: ${entity.player.name}, fly: ${entity.fly}`);
+                                    });
+                                };
                                 if (entity.fly > 100) {
                                     $(() => {
-                                        world.say(`@${entity.player.name}因为涉嫌浮空被踢出服务器！`)
-                                        entity.player.kick()
-                                        entity.fly = 0
-                                    })
-                                }
-                            })
-                        }, 50)
-                        result.push(fly_ticker)
-                    })
-                }
+                                        world.say(`@${entity.player.name}因为涉嫌浮空被踢出服务器！`);
+                                        entity.player.kick();
+                                        entity.fly = 0;
+                                    });
+                                };
+                            });
+                        }, 50);
+                        result.push(fly_ticker);
+                    });
+                };
                 if (this.click) {
                     $(() => {
-                        entity.click = 0
-                        console.log(`Anti cheating click ticker start: player: ${entity.player.name}`)
-                        let press = entity.player.onPress(() => entity.click++)
+                        entity.click = 0;
+                        console.log(`Anti cheating click ticker start: player: ${entity.player.name}`);
+                        let press = entity.player.onPress(() => entity.click++);
                         let click_ticker = setInterval(() => {
                             $(() => {
                                 if (entity.click >= 25) {
                                     $(() => {
-                                        world.say(`@${entity.player.name}因为涉嫌连点被踢出服务器！`)
-                                        entity.player.kick()
-                                    })
-                                }
-                                console.log(`Anti cheating catch click: player: ${entity.player.name}, click: ${entity.click}`)
-                                entity.click = 0
-                            })
-                        }, 1000)
-                        result.push(press)
-                        result.push(click_ticker)
-                    })
-                }
+                                        world.say(`@${entity.player.name}因为涉嫌连点被踢出服务器！`);
+                                        entity.player.kick();
+                                    });
+                                };
+                                console.log(`Anti cheating catch click: player: ${entity.player.name}, click: ${entity.click}`);
+                                entity.click = 0;
+                            });
+                        }, 1000);
+                        result.push(press);
+                        result.push(click_ticker);
+                    });
+                };
                 if (this.chat) {
                     $(() => {
-                        console.log(`Anti cheating chat ticker start: player: ${entity.player.name}`)
+                        console.log(`Anti cheating chat ticker start: player: ${entity.player.name}`);
                         let chat = entity.player.onChat(({ message }) => {
                             $(() => {
-                                console.log(`Anti cheating catch chat: player: ${entity.player.name}, length: ${message.length}`)
+                                console.log(`Anti cheating catch chat: player: ${entity.player.name}, length: ${message.length}`);
                                 if (message.length >= 1000) {
                                     $(() => {
-                                        world.say(`@${entity.player.name}因为涉嫌长文本刷屏被踢出服务器！`)
-                                        entity.player.kick()
-                                    })
-                                }
-                            })
-                        })
-                        result.push(chat)
-                    })
-                }
-            })
-            return result
+                                        world.say(`@${entity.player.name}因为涉嫌长文本刷屏被踢出服务器！`);
+                                        entity.player.kick();
+                                    });
+                                };
+                            });
+                        });
+                        result.push(chat);
+                    });
+                };
+            });
+            return result;
         }
-    }
-    let func = new Anti_cheating(true/*反飞行*/, true/*反连点*/, true/*反长文本刷屏*/)
+    };
+    let func = new Anti_cheating(true/*反飞行*/, true/*反连点*/, true/*反长文本刷屏*/);
     world.onPlayerJoin(({ entity }) => {
         $(async () => {
-            entity.ticker = await func.ticker(entity)
-        })
-    })
+            entity.ticker = await func.ticker(entity);
+        });
+    });
     world.onPlayerLeave(({ entity }) => {
         $(() => {
             entity.ticker.forEach((ticker) => {
                 try {
-                    clearInterval(ticker)
+                    clearInterval(ticker);
                 } catch (error) {
-                    ticker.cancel()
-                }
-            })
-        })
-    })
-})
+                    ticker.cancel();
+                };
+            });
+        });
+    });
+});
 		</p>
 	</div>
 	<div align="right">
