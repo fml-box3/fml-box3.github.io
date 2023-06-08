@@ -25,14 +25,12 @@
 		out.value = value
 	}
 	function run(){
-		(async () => {
-			try {
-				show(eval(code.value))
-				show('Run successfully ended')
-			} catch(error) {
-				show(error)
-			}
-		})()
+		try {
+			show(eval(code.value))
+			show('Run successfully ended')
+		} catch(error) {
+			show(error)
+		}
 	}
 	function help(){
 		show('点击运行或调用run()运行代码')
@@ -40,7 +38,6 @@
 		show('调用clean()以清空输入框')
 		show('调用help()以获取帮助')
 		show('使用await sleep(ms)来等待时间')
-		show('注：运行时默认选用异步运行')
 	}
 	Object.assign(globalThis, {
 		clean,
