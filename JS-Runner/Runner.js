@@ -26,8 +26,11 @@
 	}
 	function run(){
 		try {
-			show(eval(code.value))
-			show('Run successfully ended')
+			(async function() {
+				var start_tick = new Date().valueOf()
+				await show(eval(code.value))
+				show(`Successfully completed the run, taking ${new Date().valueOf() - start_tick} ms`)
+			})()
 		} catch(error) {
 			show(error)
 		}
