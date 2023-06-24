@@ -25,15 +25,15 @@
 		out.value = value
 	}
 	function run(){
-		try {
-			(async function() {
+		(async function() {
+			try {
 				var start_tick = new Date().valueOf()
 				await show(eval(code.value))
 				show(`Successfully completed the run, taking ${new Date().valueOf() - start_tick} ms`)
-			})()
-		} catch(error) {
-			show(error)
-		}
+			} catch(error) {
+				show(error)
+			}
+		})()
 	}
 	function help(){
 		show('点击运行或调用run()运行代码')
