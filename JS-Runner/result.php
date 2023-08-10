@@ -7,7 +7,7 @@
         <?php
 echo $_POST['HTML'];
         ?>
-        <textarea id="out'>console:</textarea>
+        <textarea id="out">console:</textarea>
         <script src="/JS-Runner/Runner.js"></script>
         <script><?php
 echo $_POST['JS'];
