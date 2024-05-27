@@ -1,9 +1,5 @@
 setTimeout(() => {
-	let name = 'FML饭米粒'
-	document.querySelector("#footer-text").innerHTML=`
-		© ${new Date().getFullYear()} ${name.link('https://github.com/fml-box3')}
+	document.querySelector("#footer-text").innerHTML = `
+		<a href="/">© ${new Date().getFullYear()} FML饭米粒</a>
 	`
-	setInterval(() => {
-		
-	}, 1000)
-},500)
+}, 500)
