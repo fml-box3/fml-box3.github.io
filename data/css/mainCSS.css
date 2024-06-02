@@ -1,69 +1,77 @@
 .flex {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 body {
-    background-color: DeepSkyBlue;
+    background-color: dodgerblue;
+    font-family: "microsoft yahei", Arial, Helvetica, sans-serif;
 }
 
 h1 {
     color: white;
     font-size: 2.5em;
-    font-family: 黑体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 黑体;
 }
 
 h2 {
     color: white;
     font-size: 2.0em;
-    font-family: 黑体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 黑体;
 }
 
 h3 {
     color: white;
     font-size: 1.75em;
-    font-family: 黑体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 黑体;
 }
 
 h4 {
     color: white;
     font-size: 1.5em;
-    font-family: 黑体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 黑体;
 }
 
 h5 {
     color: white;
     font-size: 1.25em;
-    font-family: 宋体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 宋体;
 }
 
 h6 {
     color: white;
     font-size: 1.0em;
-    font-family: 宋体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 宋体;
 }
 
 p {
     color: white;
     font-size: 0.8em;
-    font-family: 楷体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 楷体;
 }
 
 ol {
     color: gray;
     font-size: 1.0em;
-    font-family: 宋体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 宋体;
 }
 
 li {
     color: gray;
     font-size: 0.8em;
-    font-family: 楷体, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 楷体;
 }
 
 a {
     color: aliceblue;
-    font-family: 仿宋, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Arial, sans-serif;
+    font-family: 仿宋;
     text-decoration: none;
+}
+
+a.show {
+    text-decoration: underline;
+    font-family: 楷体;
 }
 
 .button {
@@ -99,17 +107,32 @@ content a:hover {
     background-color: aliceblue;
 }
 
-.now {
-    background-color: DeepSkyBlue;
-    color: blueviolet;
-}
-
 banner {
+    top: 0;
+    left: 0;
+    display: flex;
+    position: fixed !important;
+    width: 100%;
     list-style-type: none;
     margin: 0;
-    padding: 50px 700px 50px 700px;
-    overflow: hidden;
-    background-color: cyan;
+    padding: 0;
+    background-color: deepskyblue;
+}
+
+banner a {
+    font-family: '仿宋';
+    padding: 15px;
+    background-color: deepskyblue;
+    border-radius: 50%;
+}
+
+banner a:hover {
+    background-color: blue;
+}
+
+banner a.now {
+    background-color: deepskyblue;
+    color: blueviolet;
 }
 
 footer {
