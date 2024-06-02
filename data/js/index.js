@@ -1,5 +1,5 @@
-setTimeout(() => {
+onload = () => {
 	document.querySelector("#footer-text").innerHTML = `
-		<a href="/">© ${new Date().getFullYear()} FML饭米粒</a>
-	`
-}, 500)
+		<a href="about.html">© ${new Date().getFullYear()} FML饭米粒</a>
+	`;
+}, 500
