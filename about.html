@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="data/img/head-portrait.png">
+    <link rel="stylesheet" href="data/css/mainCSS.css">
+    <script src="data/js/mainJS.js"></script>
+    <title>FML饭米粒</title>
+</head>
+
+<body>
+    <banner>
+        <div style="padding: 15px; padding-left: 100px;">
+            <a href="index.html">首页</a>
+            <a href="about.html" class="now">关于</a>
+        </div>
+    </banner>
+    <br> <br> <br> <br> <br>
+    <script>
+        onload = () => {
+            document.querySelector("#text").innerHTML =
+                `<a href="about.html">
+                    Copyright © ${new Date().getFullYear()} FML饭米粒. All Rights Reserved.
+                </a>`;
+        }, 500
+    </script>
+    <div align="center">
+        <h2>关于</h2>
+        <p id="text"></p>
+        <h4>联系方式</h4>
+        <a class="show" href="https://qm.qq.com/q/MjsGfssne2">Q群: 609213793</a>
+        <br>
+        <a class="show" href="https://space.bilibili.com/3546638884801109">B站: FML饭米粒</a>
+        <p>米粒QQ: 605952607</p>
+    </div>
+</body>
+
+</html>
