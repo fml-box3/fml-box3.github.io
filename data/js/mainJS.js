@@ -17,15 +17,4 @@ if (false) {
 }
 document.oncontextmenu = () => false;
 document.onselectstart = () => false;
-
-let enableKey = false;
-document.onkeyup = (e) => {
-    e = e || window.event;
-    let code = e.key || e.keyCode;
-    if (code == 'Control') {
-        enableKey = true;
-        setTimeout(() => {
-            enableKey = false;
-        }, 1500);
-    } else if (!enableKey) return false;
-};
+document.onkeyup = () => false;
