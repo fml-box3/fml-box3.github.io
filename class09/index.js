@@ -1,6 +1,6 @@
 document.oncontextmenu = () => false;
 document.onselectstart = () => false;
-// document.onkeydown = () => false;
+document.onkeydown = () => false;
 window.onload = () => {
     for (var param of location.search.slice(1).split('&')) {
         if (param.startsWith('page=') && param.split('page=')[1]) turnToPage(Number(param.split('page=')[1]))
