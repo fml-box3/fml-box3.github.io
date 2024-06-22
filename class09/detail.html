@@ -11,7 +11,7 @@
     <title>九班传奇</title>
 </head>
 
-<body id="index">
+<body id="detail">
     <div id="title" class="middle">
         <div class="flex">
             <img src="img/title.png" loading="lazy" alt="九班传奇" style="width: 64px; height: 64px;">
@@ -19,18 +19,16 @@
         </div>
     </div>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <br><br>
-    <div id="content" class="middle">
-        <div id="hover">
-            <br> <br> <br>
-            <button onclick="turnToPage(1)" style="width: 10em; height: 6em;">开始</button>
+    <div class="flex">
+        <img loading="lazy" id="ico" class="colorful" style="width: 200px; height: 200px; margin-right: 50px;"
+            alt="图片缺失或无法显示">
+        <div class="vertical">
+            <h1 id="name"></h1>
+            <div id="tags" class="flex"></div>
         </div>
     </div>
-    <div id="contorl" class="flex fixed hide">
-        <button id="lastbtn">&#60;&#60;</button>
-        <p id="pagetxt"></p>
-        <button id="nextbtn">&#62;&#62;</button>
-    </div>
+    <br> <br>
+    <div id="details"></div>
     <div class="fixed" id="share-btn">
         <button onclick="share(0)">
             <i class="share fas fa-share-alt"></i>

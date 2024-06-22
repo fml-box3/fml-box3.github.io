@@ -37,9 +37,26 @@ p {
     color: white;
     font-size: 0.8em;
 }
+
 span {
     color: white;
     font-size: 0.5em;
+}
+
+a:link {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:visited {
+    color: white;
 }
 
 button {
@@ -49,11 +66,6 @@ button {
     color: white;
     font-size: 1.5em;
     background-color: rgb(76, 220, 115);
-}
-
-div#contorl button {
-    margin-left: 30px;
-    margin-right: 30px;
 }
 
 button:hover {
@@ -77,6 +89,7 @@ button:disabled:active {
 }
 
 img {
+    color: white;
     filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
     -webkit-filter: grayscale(100%);
 }
@@ -96,12 +109,60 @@ img.colorful {
     margin: 6px;
 }
 
-.share-btn {
+.vertical {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fixed {
     position: fixed;
+}
+
+.middle {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.hide {
+    height: 0px;
+    width: 0px;
+    overflow: hidden;
+}
+
+#share-btn {
     top: 10px;
     right: 10px;
 }
 
 #title * {
     margin: 10px;
+}
+
+#contorl {
+    bottom: 1em;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#contorl button {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#tags {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#tags tag {
+    background-color: whitesmoke;
+    color: gray;
+    font-size: 0.7em;
+    border-radius: 0.75rem;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
