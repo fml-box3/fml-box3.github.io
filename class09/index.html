@@ -13,35 +13,37 @@
 </head>
 
 <body id="index">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+
+    <div id="loader" class="loader-container top fixed">
+        <br>
+        <div class="loader"></div>
+        <p id="loadingtxt">Loading...</p>
+        <img id="loadingimg" width="1px" height="1px">
+    </div>
+
     <div id="title" class="middle">
         <div class="flex">
-            <img src="img/title.png" loading="lazy" alt="九班传奇" style="width: 64px; height: 64px;">
+            <img src="img/title.png" loading="lazy" alt="九班传奇" style="width: 64px; height: 64px">
             <h2>湖州五中·九班传奇</h2>
         </div>
     </div>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+
     <br><br>
+
     <div id="content" class="middle">
         <div id="hover">
-            <br> <br> <br>
-            <button class="middle" onclick="turnToPage(1)" style="width: 10em; height: 6em;">开始</button>
+            <br>
+            <br>
+            <br>
+            <button class="middle" style="width: 10em; height: 6em" id="startbtn">开始</button>
         </div>
     </div>
+
     <div id="contorl" class="flex fixed hide">
         <button id="lastbtn">&#60;&#60;</button>
         <p id="pagetxt"></p>
         <button id="nextbtn">&#62;&#62;</button>
-    </div>
-    <div class="fixed" id="share-btn">
-        <button onclick="share(0)">
-            <i class="share fas fa-share-alt"></i>
-            <span>分享本站</span>
-        </button>
-        <br>
-        <button onclick="share(1)">
-            <i class="share fas fa-share-alt"></i>
-            <span>分享本页</span>
-        </button>
     </div>
 </body>
 

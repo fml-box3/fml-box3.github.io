@@ -13,16 +13,24 @@
 </head>
 
 <body id="detail">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+
+    <div id="loader" class="loader-container top fixed">
+        <br>
+        <div class="loader"></div>
+        <p id="loadingtxt">Loading...</p>
+        <img id="loadingimg" width="1px" height="1px">
+    </div>
+
     <div id="title" class="middle">
         <div class="flex">
             <img src="img/title.png" loading="lazy" alt="九班传奇" style="width: 64px; height: 64px;">
             <h2>湖州五中·九班传奇</h2>
         </div>
     </div>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+
     <div class="flex">
-        <img loading="lazy" id="ico" class="colorful" style="width: 200px; height: 200px; margin-right: 50px;"
-            alt="图片缺失或无法显示">
+        <img loading="lazy" id="ico" class="colorful" style="width: 200px; height: 200px; margin-right: 50px;">
         <div class="vertical">
             <h1 id="name"></h1>
             <div id="tags" class="flex"></div>
@@ -30,17 +38,6 @@
     </div>
     <br> <br>
     <div id="details"></div>
-    <div class="fixed" id="share-btn">
-        <button onclick="share(0)">
-            <i class="share fas fa-share-alt"></i>
-            <span>分享本站</span>
-        </button>
-        <br>
-        <button onclick="share(1)">
-            <i class="share fas fa-share-alt"></i>
-            <span>分享本页</span>
-        </button>
-    </div>
 </body>
 
 </html>
