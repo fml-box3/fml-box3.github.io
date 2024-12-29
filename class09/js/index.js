@@ -1,1 +1,973 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('A.1k=1l()=>{t 12=x.1m("#12");12.y=()=>z(1);D(t E 13 14.15.1n(1).16(\'&\')){F(E.1o(\'8=\')&&E.16(\'8=\')[1])z(1p(E.16(\'8=\')[1]))}}t G=[[[{5:\'17\',6:{r:\'我们九班\',},}],[{5:\'p\',6:{r:\'点击可跳转详情页面\',},}],[{5:\'a\',6:{l:\'m.n#8=1q\',},7:[{5:\'o\',6:{q:\'陈佳浩\',},}],},{5:\'a\',6:{l:\'m.n#8=1r\',},7:[{5:\'o\',6:{q:\'陈&#u;&#u;&#u;墨\',},}],},{5:\'a\',6:{l:\'m.n#8=1s\',},7:[{5:\'o\',6:{q:\'陈孙佑\',},}],},{5:\'a\',6:{l:\'m.n#8=1t\',},7:[{5:\'o\',6:{q:\'褚钱桢\',},}],},{5:\'a\',6:{l:\'m.n#8=1u\',},7:[{5:\'o\',6:{q:\'董缪晟\',},}],},{5:\'a\',6:{l:\'m.n#8=1v\',},7:[{5:\'o\',6:{q:\'范文昊\',},}],},{5:\'a\',6:{l:\'m.n#8=1w\',},7:[{5:\'o\',6:{q:\'管葳澄\',},}],},{5:\'a\',6:{l:\'m.n#8=1x\',},7:[{5:\'o\',6:{q:\'何彦锐\',},}],},{5:\'a\',6:{l:\'m.n#8=1y\',},7:[{5:\'o\',6:{q:\'简林健\',},}],}],[{5:\'a\',6:{l:\'m.n#8=1z\',},7:[{5:\'o\',6:{q:\'姜斯瀚\',},}],},{5:\'a\',6:{l:\'m.n#8=1A\',},7:[{5:\'o\',6:{q:\'娄黎鑫\',},}],},{5:\'a\',6:{l:\'m.n#8=1B\',},7:[{5:\'o\',6:{q:\'陆宇杰\',},}],},{5:\'a\',6:{l:\'m.n#8=1C\',},7:[{5:\'o\',6:{q:\'吕向明\',},}],},{5:\'a\',6:{l:\'m.n#8=1D\',},7:[{5:\'o\',6:{q:\'闵一睿\',},}],},{5:\'a\',6:{l:\'m.n#8=1E\',},7:[{5:\'o\',6:{q:\'莫子谦\',},}],},{5:\'a\',6:{l:\'m.n#8=1F\',},7:[{5:\'o\',6:{q:\'潘&#u;&#u;&#u;垚\',},}],},{5:\'a\',6:{l:\'m.n#8=1G\',},7:[{5:\'o\',6:{q:\'钱中炎\',},}],},{5:\'a\',6:{l:\'m.n#8=1H\',},7:[{5:\'o\',6:{q:\'盛锐浩\',},}],}],[{5:\'a\',6:{l:\'m.n#8=1I\',},7:[{5:\'o\',6:{q:\'史博文\',},}],},{5:\'a\',6:{l:\'m.n#8=1J\',},7:[{5:\'o\',6:{q:\'史轹文\',},}],},{5:\'a\',6:{l:\'m.n#8=1K\',},7:[{5:\'o\',6:{q:\'滕一樊\',},}],},{5:\'a\',6:{l:\'m.n#8=1L\',},7:[{5:\'o\',6:{q:\'严家旭\',},}],},{5:\'a\',6:{l:\'m.n#8=1M\',},7:[{5:\'o\',6:{q:\'杨钧博\',},}],},{5:\'a\',6:{l:\'m.n#8=1N\',},7:[{5:\'o\',6:{q:\'张潘锐\',},}],},{5:\'a\',6:{l:\'m.n#8=1O\',},7:[{5:\'o\',6:{q:\'张天宇\',},}],},{5:\'a\',6:{l:\'m.n#8=1P\',},7:[{5:\'o\',6:{q:\'郑瑜周\',},}],},{5:\'a\',6:{l:\'m.n#8=1Q\',},7:[{5:\'o\',6:{q:\'臣相涵\',},}],}],[{5:\'a\',6:{l:\'m.n#8=1R\',},7:[{5:\'o\',6:{q:\'陈&#u;&#u;&#u;凌\',},}],},{5:\'a\',6:{l:\'m.n#8=1S\',},7:[{5:\'o\',6:{q:\'陈欣宜\',},}],},{5:\'a\',6:{l:\'m.n#8=1T\',},7:[{5:\'o\',6:{q:\'范馨匀\',},}],},{5:\'a\',6:{l:\'m.n#8=1U\',},7:[{5:\'o\',6:{q:\'耿秋凌\',},}],},{5:\'a\',6:{l:\'m.n#8=1V\',},7:[{5:\'o\',6:{q:\'顾家玥\',},}],},{5:\'a\',6:{l:\'m.n#8=1W\',},7:[{5:\'o\',6:{q:\'管沈熠\',},}],},{5:\'a\',6:{l:\'m.n#8=1X\',},7:[{5:\'o\',6:{q:\'李香怡\',},}],},{5:\'a\',6:{l:\'m.n#8=1Y\',},7:[{5:\'o\',6:{q:\'吕晋颐\',},}],},{5:\'a\',6:{l:\'m.n#8=1Z\',},7:[{5:\'o\',6:{q:\'钦奕晗\',},}],}],[{5:\'a\',6:{l:\'m.n#8=20\',},7:[{5:\'o\',6:{q:\'施秀钰\',},}],},{5:\'a\',6:{l:\'m.n#8=21\',},7:[{5:\'o\',6:{q:\'汤子菲\',},}],},{5:\'a\',6:{l:\'m.n#8=22\',},7:[{5:\'o\',6:{q:\'王沂栩\',},}],},{5:\'a\',6:{l:\'m.n#8=23\',},7:[{5:\'o\',6:{q:\'翁&#u;&#u;&#u;歆\',},}],},{5:\'a\',6:{l:\'m.n#8=24\',},7:[{5:\'o\',6:{q:\'徐逸锦\',},}],},{5:\'a\',6:{l:\'m.n#8=25\',},7:[{5:\'o\',6:{q:\'徐之悦\',},}],},{5:\'a\',6:{l:\'m.n#8=26\',},7:[{5:\'o\',6:{q:\'徐子懿\',},}],},{5:\'a\',6:{l:\'m.n#8=27\',},7:[{5:\'o\',6:{q:\'严梦淇\',},}],},{5:\'a\',6:{l:\'m.n#8=28\',},7:[{5:\'o\',6:{q:\'杨睿可\',},}],}],[{5:\'a\',6:{l:\'m.n#8=29\',},7:[{5:\'o\',6:{q:\'张思毓\',},}],},{5:\'a\',6:{l:\'m.n#8=2a\',},7:[{5:\'o\',6:{q:\'张榆阳\',},}],},{5:\'a\',6:{l:\'m.n#8=2b\',},7:[{5:\'o\',6:{q:\'赵余澜\',},}],},{5:\'a\',6:{l:\'m.n#8=2c\',},7:[{5:\'o\',6:{q:\'钟雨旸\',},}],},{5:\'a\',6:{l:\'m.n#8=2d\',},7:[{5:\'o\',6:{q:\'周雯超\',},}],},{5:\'a\',6:{l:\'m.n#8=2e\',},7:[{5:\'o\',6:{q:\'周妍琪\',},}],},{5:\'a\',6:{l:\'m.n#8=2f\',},7:[{5:\'o\',6:{q:\'朱子悦\',},}],}],],[[{5:\'17\',6:{r:\'教师团队\',},}],[{5:\'p\',6:{r:\'点击可跳转详情页面\',}}],[{5:\'v\',6:{r:\'初一：\',},},{5:\'a\',6:{l:\'m.n#8=2g\',},7:[{5:\'w\',6:{r:\'语文黄老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2h\',},7:[{5:\'w\',6:{r:\'数学王老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2i\',},7:[{5:\'w\',6:{r:\'英语李老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2j\',},7:[{5:\'w\',6:{r:\'科学叶老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2k\',},7:[{5:\'w\',6:{r:\'社会张老师\',},}],}],[{5:\'v\',6:{r:\'初二：\',},},{5:\'a\',6:{l:\'m.n#8=2l\',},7:[{5:\'w\',6:{r:\'语文盛老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2m\',},7:[{5:\'w\',6:{r:\'数学王老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2n\',},7:[{5:\'w\',6:{r:\'英语陈老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2o\',},7:[{5:\'w\',6:{r:\'科学王老师\',},}],},{5:\'a\',6:{l:\'m.n#8=2p\',},7:[{5:\'w\',6:{r:\'社会施老师\',},}],}],],[[{5:\'2q\',6:{r:\'集体大事迹\',},}]],[[{5:\'H\',6:{I:\'1\',J:K,L:M,N:\'O\',P:\'图片缺失或无法显示\',y:()=>{A.Q(R.S(\'1\'))}},T:[\'U\',],},{5:\'B\',7:[{5:\'v\',6:{r:\'湖州市第五中学仁皇山校区\',},},{5:\'v\',6:{r:\'1c届初一（9）班\',},},{5:\'V\',6:{r:\'春季研学 | 劳动生态行 研学促成长\',},}]}],[{5:\'a\',6:{l:\'W://X.Y.Z.10/s/2r\',},7:[{5:\'p\',6:{r:\'微信公众号“毓仁慧心”·《春季研学 | 劳动生态行 研学促成长》\',}}]}],],[[{5:\'H\',6:{I:\'2\',J:K,L:M,N:\'O\',P:\'图片缺失或无法显示\',y:()=>{A.Q(R.S(\'2\'))}},T:[\'U\',],},{5:\'B\',7:[{5:\'v\',6:{r:\'湖州市第五中学仁皇山校区\',},},{5:\'v\',6:{r:\'1c届初一（9）班\',},},{5:\'V\',6:{r:\'歌咏比赛 | 红心颂党恩 欢歌迎亚运\',},}]}],[{5:\'a\',6:{l:\'W://X.Y.Z.10/s/2s-2t\',},7:[{5:\'p\',6:{r:\'微信公众号“毓仁慧心”·《红色乐章 | 红心颂党恩 欢歌迎亚运》\',}}]}],],[[{5:\'H\',6:{I:\'3\',J:K,L:M,N:\'O\',P:\'图片缺失或无法显示\',y:()=>{A.Q(R.S(\'3\'))}},T:[\'U\',],},{5:\'B\',7:[{5:\'v\',6:{r:\'湖州市第五中学仁皇山校区\',},},{5:\'v\',6:{r:\'1d届初二（9）班\',},},{5:\'V\',6:{r:\'春季研学 | 溯源历史修文物 绿水青山来耕耘\',},}]}],[{5:\'a\',6:{l:\'W://X.Y.Z.10/s/2u\',},7:[{5:\'p\',6:{r:\'微信公众号“毓仁慧心”·《春季研学 | 溯源历史修文物 绿水青山来耕耘》\',}}]}],],[[{5:\'H\',6:{I:\'4\',J:K,L:M,N:\'O\',P:\'图片缺失或无法显示\',y:()=>{A.Q(R.S(\'4\'))}},T:[\'U\',],},{5:\'B\',7:[{5:\'v\',6:{r:\'湖州市第五中学仁皇山校区\',},},{5:\'v\',6:{r:\'1d届初二（9）班\',},},{5:\'V\',6:{r:\'朗诵比赛 | 青春以诗言志 励志以声绘梦\',},}]}],[{5:\'a\',6:{l:\'W://X.Y.Z.10/s/2v\',},7:[{5:\'p\',6:{r:\'微信公众号“毓仁慧心”·《青春以诗言志 励志以声绘梦》\',}}]}],],[[{5:\'17\',6:{r:\'更多辉煌等你创造……\',},}],],];2w z(a){2x.2y(\'2z 2A 8 \',a);t b=x.C(\'2B\');2C(b.1e.18){b.1e.2D((1f)=>{b.2E(1f)})}t c=G[a-1];D(t d 13 c){t e=x.19(\'B\');e.1g.2F(\'2G\');D(t f 13 d){e.1a(19(f))}b.1a(e)}D(2H i=0;i<2;i++)b.1a(x.19(\'2I\'));t g=x.C(\'2J\');g.1g.2K(\'2L\');t h=x.C(\'2M\');h.y=()=>z(a-1);t j=x.C(\'2N\');j.r=`九班传奇${a}/${G.18}`;t k=x.C(\'2O\');k.y=()=>z(a+1);F(a==1)h.11=1h;1i h.11=1j;F(a==G.18)k.11=1h;1i k.11=1j;1b=a;F(14.15!=\'#8=\'+1b)14.15=\'#8=\'+1b;2P a}A[\'z\']=z;',62,176,'|||||type|attribute|chlidren|page|||||||||||||href|detail|html|h6||innerHTML|textContent||var|160|h3|h5|document|onclick|turnToPage|window|div|getElementById|for|param|if|pages|img|imgId|width|432|height|240|loading|lazy|alt|open|Img|getImg|class|colorful|h4|https|mp|weixin|qq|com|disabled|startbtn|of|location|hash|split|h2|length|createElement|appendChild|nowPage|2022|2023|childNodes|node|classList|true|else|false|onload|async|querySelector|slice|startsWith|Number|s1418|s1419|s1420|s1421|s1422|s1423|s1424|s1425|s1426|s1427|s1428|s1429|s1430|s1431|s1432|s1433|s1434|s1435|s1436|s1437|s1438|s1439|s1440|s1441|s1442|s1443|s1444|s1445|s1446|s1447|s1448|s1449|s1450|s1451|s1452|s1453|s1454|s1455|s1456|s1457|s1458|s1459|s1460|s1461|s1462|s1463|s1464|s1465|s1466|s1467|s1468|s1469|t001|t002|t003|t004|t005|t006|t007|t008|t009|t010|h1|f7s5QInwEj0HnKnaxSZBwA|zRho|PLKcMzi6jqCVBuzKA|YnYPuKZTb4aXEHwgRv0MCA|J2UYW2NCSpMq746tQaiDAg|function|console|log|turn|to|content|while|forEach|removeChild|add|flex|let|br|contorl|remove|hide|lastbtn|pagetxt|nextbtn|return'.split('|'),0,{}))
+window.onload = async () => {
+    var startbtn = document.querySelector("#startbtn");
+    startbtn.onclick = () => turnToPage(1);
+    for (var param of location.hash.slice(1).split('&')) {
+        if (param.startsWith('page=') && param.split('page=')[1])
+            turnToPage(Number(param.split('page=')[1]));
+    }
+}
+
+var pages = [
+    [
+        [{
+            type: 'h2',
+            attribute: {
+                textContent: '我们九班',
+            },
+        }], [{
+            type: 'p',
+            attribute: {
+                textContent: '点击可跳转详情页面',
+            },
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1418',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '陈佳浩',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1419',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '陈&#160;&#160;&#160;墨',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1420',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '陈孙佑',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1421',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '褚钱桢',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1422',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '董缪晟',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1423',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '范文昊',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1424',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '管葳澄',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1425',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '何彦锐',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1426',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '简林健',
+                },
+            }],
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1427',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '姜斯瀚',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1428',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '娄黎鑫',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1429',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '陆宇杰',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1430',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '吕向明',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1431',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '闵一睿',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1432',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '莫子谦',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1433',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '潘&#160;&#160;&#160;垚',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1434',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '钱中炎',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1435',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '盛锐浩',
+                },
+            }],
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1436',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '史博文',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1437',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '史轹文',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1438',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '滕一樊',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1439',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '严家旭',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1440',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '杨钧博',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1441',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '张潘锐',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1442',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '张天宇',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1443',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '郑瑜周',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1444',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '臣相涵',
+                },
+            }],
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1445',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '陈&#160;&#160;&#160;凌',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1446',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '陈欣宜',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1447',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '范馨匀',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1448',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '耿秋凌',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1449',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '顾家玥',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1450',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '管沈熠',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1451',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '李香怡',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1452',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '吕晋颐',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1453',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '钦奕晗',
+                },
+            }],
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1454',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '施秀钰',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1455',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '汤子菲',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1456',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '王沂栩',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1457',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '翁&#160;&#160;&#160;歆',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1458',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '徐逸锦',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1459',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '徐之悦',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1460',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '徐子懿',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1461',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '严梦淇',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1462',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '杨睿可',
+                },
+            }],
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1463',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '张思毓',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1464',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '张榆阳',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1465',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '赵余澜',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1466',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '钟雨旸',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1467',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '周雯超',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1468',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '周妍琪',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=s1469',
+            },
+            chlidren: [{
+                type: 'h6',
+                attribute: {
+                    innerHTML: '朱子悦',
+                },
+            }],
+        }],
+    ], [
+        [{
+            type: 'h2',
+            attribute: {
+                textContent: '教师团队',
+            },
+        }], [{
+            type: 'p',
+            attribute: {
+                textContent: '点击可跳转详情页面',
+            }
+        }], [{
+            type: 'h3',
+            attribute: {
+                textContent: '初一：',
+            },
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t001',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '语文黄老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t002',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '数学王老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t003',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '英语李老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t004',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '科学叶老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t005',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '社会张老师',
+                },
+            }],
+        }], [{
+            type: 'h3',
+            attribute: {
+                textContent: '初二：',
+            },
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t006',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '语文盛老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t007',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '数学王老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t008',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '英语陈老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t009',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '科学王老师',
+                },
+            }],
+        }, {
+            type: 'a',
+            attribute: {
+                href: 'detail.html#page=t010',
+            },
+            chlidren: [{
+                type: 'h5',
+                attribute: {
+                    textContent: '社会施老师',
+                },
+            }],
+        }],
+    ], [
+        [{
+            type: 'h1',
+            attribute: {
+                textContent: '集体大事迹',
+            },
+        }]
+    ], [
+        [{
+            type: 'img',
+            attribute: {
+                imgId: '1',
+                width: 432,
+                height: 240,
+                loading: 'lazy',
+                alt: '图片缺失或无法显示',
+                onclick: () => {
+                    window.open(Img.getImg('1'));
+                }
+            },
+            class: [
+                'colorful',
+            ],
+        }, {
+            type: 'div',
+            chlidren: [{
+                type: 'h3',
+                attribute: {
+                    textContent: '湖州市第五中学仁皇山校区',
+                },
+            }, {
+                type: 'h3',
+                attribute: {
+                    textContent: '2022届初一（9）班',
+                },
+            }, {
+                type: 'h4',
+                attribute: {
+                    textContent: '春季研学 | 劳动生态行 研学促成长',
+                },
+            }]
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'https://mp.weixin.qq.com/s/f7s5QInwEj0HnKnaxSZBwA',
+            },
+            chlidren: [{
+                type: 'p',
+                attribute: {
+                    textContent: '微信公众号“毓仁慧心”·《春季研学 | 劳动生态行 研学促成长》',
+                }
+            }]
+        }],
+    ], [
+        [{
+            type: 'img',
+            attribute: {
+                imgId: '2',
+                width: 432,
+                height: 240,
+                loading: 'lazy',
+                alt: '图片缺失或无法显示',
+                onclick: () => {
+                    window.open(Img.getImg('2'));
+                }
+            },
+            class: [
+                'colorful',
+            ],
+        }, {
+            type: 'div',
+            chlidren: [{
+                type: 'h3',
+                attribute: {
+                    textContent: '湖州市第五中学仁皇山校区',
+                },
+            }, {
+                type: 'h3',
+                attribute: {
+                    textContent: '2022届初一（9）班',
+                },
+            }, {
+                type: 'h4',
+                attribute: {
+                    textContent: '歌咏比赛 | 红心颂党恩 欢歌迎亚运',
+                },
+            }]
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'https://mp.weixin.qq.com/s/zRho-PLKcMzi6jqCVBuzKA',
+            },
+            chlidren: [{
+                type: 'p',
+                attribute: {
+                    textContent: '微信公众号“毓仁慧心”·《红色乐章 | 红心颂党恩 欢歌迎亚运》',
+                }
+            }]
+        }],
+    ], [
+        [{
+            type: 'img',
+            attribute: {
+                imgId: '3',
+                width: 432,
+                height: 240,
+                loading: 'lazy',
+                alt: '图片缺失或无法显示',
+                onclick: () => {
+                    window.open(Img.getImg('3'));
+                }
+            },
+            class: [
+                'colorful',
+            ],
+        }, {
+            type: 'div',
+            chlidren: [{
+                type: 'h3',
+                attribute: {
+                    textContent: '湖州市第五中学仁皇山校区',
+                },
+            }, {
+                type: 'h3',
+                attribute: {
+                    textContent: '2023届初二（9）班',
+                },
+            }, {
+                type: 'h4',
+                attribute: {
+                    textContent: '春季研学 | 溯源历史修文物 绿水青山来耕耘',
+                },
+            }]
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'https://mp.weixin.qq.com/s/YnYPuKZTb4aXEHwgRv0MCA',
+            },
+            chlidren: [{
+                type: 'p',
+                attribute: {
+                    textContent: '微信公众号“毓仁慧心”·《春季研学 | 溯源历史修文物 绿水青山来耕耘》',
+                }
+            }]
+        }],
+    ], [
+        [{
+            type: 'img',
+            attribute: {
+                imgId: '4',
+                width: 432,
+                height: 240,
+                loading: 'lazy',
+                alt: '图片缺失或无法显示',
+                onclick: () => {
+                    window.open(Img.getImg('4'));
+                }
+            },
+            class: [
+                'colorful',
+            ],
+        }, {
+            type: 'div',
+            chlidren: [{
+                type: 'h3',
+                attribute: {
+                    textContent: '湖州市第五中学仁皇山校区',
+                },
+            }, {
+                type: 'h3',
+                attribute: {
+                    textContent: '2023届初二（9）班',
+                },
+            }, {
+                type: 'h4',
+                attribute: {
+                    textContent: '朗诵比赛 | 青春以诗言志 励志以声绘梦',
+                },
+            }]
+        }], [{
+            type: 'a',
+            attribute: {
+                href: 'https://mp.weixin.qq.com/s/J2UYW2NCSpMq746tQaiDAg',
+            },
+            chlidren: [{
+                type: 'p',
+                attribute: {
+                    textContent: '微信公众号“毓仁慧心”·《青春以诗言志 励志以声绘梦》',
+                }
+            }]
+        }],
+    ], [
+        [{
+            type: 'h2',
+            attribute: {
+                textContent: '更多辉煌等你创造……',
+            },
+        }],
+    ],
+];
+
+
+function turnToPage(page) {
+    console.log('turn to page ', page);
+    var divContent = document.getElementById('content');
+    while (divContent.childNodes.length) {
+        divContent.childNodes.forEach((node) => {
+            divContent.removeChild(node);
+        });
+    }
+
+    var pageParam = pages[page - 1];
+    for (var lineParam of pageParam) {
+        var lineDiv = document.createElement('div');
+        lineDiv.classList.add('flex');
+        for (var elementParam of lineParam) {
+            lineDiv.appendChild(createElement(elementParam));
+        }
+        divContent.appendChild(lineDiv);
+    }
+
+
+    for (let i = 0; i < 2; i++)
+        divContent.appendChild(document.createElement('br'));
+
+    var contorlDiv = document.getElementById('contorl');
+    contorlDiv.classList.remove('hide');
+
+    var lastbtn = document.getElementById('lastbtn');
+    lastbtn.onclick = () => turnToPage(page - 1);
+
+    var pageText = document.getElementById('pagetxt');
+    pageText.textContent = `九班传奇 ${page} / ${pages.length}`;
+
+    var nextbtn = document.getElementById('nextbtn');
+    nextbtn.onclick = () => turnToPage(page + 1);
+
+    if (page == 1) lastbtn.disabled = true;
+    else lastbtn.disabled = false;
+    if (page == pages.length) nextbtn.disabled = true;
+    else nextbtn.disabled = false;
+
+    nowPage = page;
+    if (location.hash != '#page=' + nowPage) location.hash = '#page=' + nowPage;
+    return page;
+}
+window['turnToPage'] = turnToPage;

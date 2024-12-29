@@ -1,1 +1,139 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('8.1T=()=>o;8.1U=()=>o;8.1V=()=>o;x.1W=0;y 7{p E=o;p 9={\'1\':\'5/1.6\',\'2\':\'5/2.6\',\'3\':\'5/3.6\',\'4\':\'5/4.6\',\'h\':\'5/h.6\',\'F\':\'5/F.6\',\'G\':\'5/G.6\',\'H\':\'5/H.6\',\'I\':\'5/I.6\',\'J\':\'5/J.6\',\'K\':\'5/K.6\',\'L\':\'5/L.6\',\'M\':\'5/M.6\',\'N\':\'5/N.6\',\'O\':\'5/O.6\',\'P\':\'5/P.6\',\'Q\':\'5/Q.6\',\'R\':\'5/R.6\',\'S\':\'5/S.6\',\'T\':\'5/T.6\',\'U\':\'5/U.6\',\'V\':\'5/V.6\',\'W\':\'5/W.6\',\'X\':\'5/X.6\',\'Y\':\'5/Y.6\',\'Z\':\'5/Z.6\',\'10\':\'5/10.6\',\'11\':\'5/11.6\',\'12\':\'5/12.6\',\'13\':\'5/13.6\',\'14\':\'5/14.6\',\'15\':\'5/15.6\',\'16\':\'5/16.6\',\'17\':\'5/17.6\',\'18\':\'5/18.6\',\'19\':\'5/19.6\',\'1a\':\'5/1a.6\',\'1b\':\'5/1b.6\',\'1c\':\'5/1c.6\',\'1d\':\'5/1d.6\',\'1e\':\'5/1e.6\',\'1f\':\'5/1f.6\',\'1g\':\'5/1g.6\',\'1h\':\'5/1h.6\',\'1i\':\'5/1i.6\',\'1j\':\'5/1j.6\',\'1k\':\'5/1k.6\',\'1l\':\'5/1l.6\',\'1m\':\'5/1m.6\',\'1n\':\'5/1n.6\',\'1o\':\'5/1o.6\',\'1p\':\'5/1p.6\',\'1q\':\'5/1q.6\',\'1r\':\'5/1r.6\',\'1s\':\'5/1s.6\',\'1t\':\'5/1t.6\',\'1u\':\'5/1u.6\',\'1v\':\'5/1v.6\',\'f\':\'5/f.6\',\'1w\':\'5/1w.6\',\'1x\':\'5/1x.6\',\'1y\':\'5/1y.6\',\'1z\':\'5/1z.6\',\'1A\':\'5/1A.6\',\'1B\':\'5/1B.6\',\'1C\':\'5/1C.6\',\'1D\':\'5/1D.6\',\'1E\':\'5/1E.6\',\'1F\':\'5/1F.6\',\'1G\':\'5/1G.6\',\'1H\':\'5/1H.6\',\'1I\':\'5/1I.6\',\'f-1\':\'5/f-1.6\',\'f-2\':\'5/f-2.6\',\'f-3\':\'5/f-3.6\',}p q(g){i(z.9[g])A z.9[g];1J A z.q(\'h\')}p 1X 1K(){j k=0;j r=1Y;j l=8.B("#l");j 5=8.B("#1Z");j C=8.B("#20");s(m g t u.v(7.9)){5.1L=7.9[g];5.21=D(){k++;C.1M=\'1N (\'+k+\'/\'+u.v(7.9).1O+\') ...\';r()};5.22=D(){23.24(\'h 25 5: \'+g);7.9[g]=7.q(\'h\');k++;C.1M=\'1N (\'+k+\'/\'+u.v(7.9).1O+\') ...\';r()};26 27 28(1P=>r=1P)}l.1Q&&l.1Q.29(l);7.E=2a}}D n(a){m b=8.n(a.1R);i(a.w)s(m c t u.v(a.w)){i(a.1R==\'5\'&&c==\'2b\')b.1L=7.q(a.w[c]);1J b[c]=a.w[c]}i(a.y)s(m d t a.y)b.2c.2d(d);i(a.1S)s(m e t a.1S)b.2e(n(e));A b}x[\'n\']=n;x[\'7\']=7;8.2f(\'2g\',7.1K);',62,141,'|||||img|png|Img|document|imgs||||||t002|id|error|if|let|index|loader|var|createElement|false|static|getImg|solve|for|of|Object|keys|attribute|window|class|this|return|querySelector|text|function|loaded|s1418|s1419|s1420|s1421|s1422|s1423|s1424|s1425|s1426|s1427|s1428|s1429|s1430|s1431|s1432|s1433|s1434|s1435|s1436|s1437|s1438|s1439|s1440|s1441|s1442|s1443|s1444|s1445|s1446|s1447|s1448|s1449|s1450|s1451|s1452|s1453|s1454|s1455|s1456|s1457|s1458|s1459|s1460|s1461|s1462|s1463|s1464|s1465|s1466|s1467|s1468|s1469|t001|t003|t004|t005|t006|t007|t008|t009|t010|t011|t012|t013|t014|t015|else|loadAllImg|src|innerHTML|Loading|length|resolve|parentNode|type|chlidren|oncontextmenu|onselectstart|onkeydown|nowPage|async|undefined|loadingimg|loadingtxt|onload|onerror|console|warn|load|await|new|Promise|removeChild|true|imgId|classList|add|appendChild|addEventListener|DOMContentLoaded'.split('|'),0,{}))
+document.oncontextmenu = () => false;
+document.onselectstart = () => false;
+document.onkeydown = () => false;
+window.nowPage = 0;
+
+class Img {
+    static loaded = false;
+    static imgs = {
+        '1': 'img/1.png',
+        '2': 'img/2.png',
+        '3': 'img/3.png',
+        '4': 'img/4.png',
+        'error': 'img/error.png',
+        's1418': 'img/s1418.png',
+        's1419': 'img/s1419.png',
+        's1420': 'img/s1420.png',
+        's1421': 'img/s1421.png',
+        's1422': 'img/s1422.png',
+        's1423': 'img/s1423.png',
+        's1424': 'img/s1424.png',
+        's1425': 'img/s1425.png',
+        's1426': 'img/s1426.png',
+        's1427': 'img/s1427.png',
+        's1428': 'img/s1428.png',
+        's1429': 'img/s1429.png',
+        's1430': 'img/s1430.png',
+        's1431': 'img/s1431.png',
+        's1432': 'img/s1432.png',
+        's1433': 'img/s1433.png',
+        's1434': 'img/s1434.png',
+        's1435': 'img/s1435.png',
+        's1436': 'img/s1436.png',
+        's1437': 'img/s1437.png',
+        's1438': 'img/s1438.png',
+        's1439': 'img/s1439.png',
+        's1440': 'img/s1440.png',
+        's1441': 'img/s1441.png',
+        's1442': 'img/s1442.png',
+        's1443': 'img/s1443.png',
+        's1444': 'img/s1444.png',
+        's1445': 'img/s1445.png',
+        's1446': 'img/s1446.png',
+        's1447': 'img/s1447.png',
+        's1448': 'img/s1448.png',
+        's1449': 'img/s1449.png',
+        's1450': 'img/s1450.png',
+        's1451': 'img/s1451.png',
+        's1452': 'img/s1452.png',
+        's1453': 'img/s1453.png',
+        's1454': 'img/s1454.png',
+        's1455': 'img/s1455.png',
+        's1456': 'img/s1456.png',
+        's1457': 'img/s1457.png',
+        's1458': 'img/s1458.png',
+        's1459': 'img/s1459.png',
+        's1460': 'img/s1460.png',
+        's1461': 'img/s1461.png',
+        's1462': 'img/s1462.png',
+        's1463': 'img/s1463.png',
+        's1464': 'img/s1464.png',
+        's1465': 'img/s1465.png',
+        's1466': 'img/s1466.png',
+        's1467': 'img/s1467.png',
+        's1468': 'img/s1468.png',
+        's1469': 'img/s1469.png',
+        't001': 'img/t001.png',
+        't002': 'img/t002.png',
+        't003': 'img/t003.png',
+        't004': 'img/t004.png',
+        't005': 'img/t005.png',
+        't006': 'img/t006.png',
+        't007': 'img/t007.png',
+        't008': 'img/t008.png',
+        't009': 'img/t009.png',
+        't010': 'img/t010.png',
+        't011': 'img/t011.png',
+        't012': 'img/t012.png',
+        't013': 'img/t013.png',
+        't014': 'img/t014.png',
+        't015': 'img/t015.png',
+
+        't002-1': 'img/t002-1.png',
+        't002-2': 'img/t002-2.png',
+        't002-3': 'img/t002-3.png',
+    }    
+
+    static getImg(id) {
+        if (this.imgs[id]) return this.imgs[id];
+        else return this.getImg('error');
+    }
+
+    static async loadAllImg() {
+        let index = 0;
+        let solve = undefined;
+        let loader = document.querySelector("#loader");
+        let img = document.querySelector("#loadingimg");
+        let text = document.querySelector("#loadingtxt");
+        for (var id of Object.keys(Img.imgs)) {
+            img.src = Img.imgs[id];
+            img.onload = function () {
+                index++;
+                text.innerHTML = 'Loading (' + index + '/' + Object.keys(Img.imgs).length + ') ...';
+                solve();
+            };
+            img.onerror = function () {
+                console.warn('error load img: ' + id);
+                Img.imgs[id] = Img.getImg('error');
+                index++;
+                text.innerHTML = 'Loading (' + index + '/' + Object.keys(Img.imgs).length + ') ...';
+                solve();
+            };
+            await new Promise(resolve => solve = resolve);
+        }
+        loader.parentNode && loader.parentNode.removeChild(loader);
+        Img.loaded = true;
+    }
+}
+
+function createElement(elementParam) {
+    var element = document.createElement(elementParam.type);
+    if (elementParam.attribute)
+        for (var attributeKey of Object.keys(elementParam.attribute)) {
+            if (elementParam.type == 'img' && attributeKey == 'imgId')
+                element.src = Img.getImg(elementParam.attribute[attributeKey]);
+            else
+                element[attributeKey] = elementParam.attribute[attributeKey];
+        }
+    if (elementParam.class)
+        for (var className of elementParam.class)
+            element.classList.add(className);
+    if (elementParam.chlidren)
+        for (var chlidrenParam of elementParam.chlidren)
+            element.appendChild(createElement(chlidrenParam));
+    return element;
+}
+window['createElement'] = createElement;
+window['Img'] = Img;
+
+document.addEventListener('DOMContentLoaded', Img.loadAllImg);

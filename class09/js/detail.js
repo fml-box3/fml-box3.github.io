@@ -1,1 +1,686 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('l.1M=1N()=>{q(i r s 1O.1P.1Q(1).A(\'&\')){1R(r.1S(\'B=\')&&r.A(\'B=\')[1])t(r.A(\'B=\')[1])}}i m={\'L\':{6:\'L\',7:\'黄娜青\',8:[\'初一·语文老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'j\':{6:\'j\',7:\'王小白\',8:[\'初一·数学老师\',\'初二·数学老师\'],9:[[{0:\'1T\',4:{5:\'名人名言：\',},}],[{0:\'n\',4:{5:\'蠢得跟头牛一样；\',},},{0:\'n\',4:{5:\'浪费北京时间；\',},},{0:\'n\',4:{5:\'秒杀题；\',},}],[{0:\'1U\',}],[{0:\'1V\',4:{5:\'更多图片（点击查看大图）：\',},}],[{0:\'C\',4:{D:\'j-1\',E:20,F:20,G:\'H\',I:\'图片缺失或无法显示\',u:()=>l.v(w.x(\'j-1\'))},},{0:\'C\',4:{D:\'j-2\',E:20,F:20,G:\'H\',I:\'图片缺失或无法显示\',u:()=>l.v(w.x(\'j-2\')),},},{0:\'C\',4:{D:\'j-3\',E:20,F:20,G:\'H\',I:\'图片缺失或无法显示\',u:()=>l.v(w.x(\'j-3\')),},}],]},\'M\':{6:\'M\',7:\'李芳\',8:[\'初一·英语老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'N\':{6:\'N\',7:\'叶倩文\',8:[\'初一·科学老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'O\':{6:\'O\',7:\'张耀\',8:[\'初一·班主任\',\'初一·社会老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'P\':{6:\'P\',7:\'盛敏\',8:[\'初二·语文老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'Q\':{},\'R\':{6:\'R\',7:\'陈丽娜\',8:[\'初二·英语老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'S\':{6:\'S\',7:\'王晗明\',8:[\'初二·班主任\',\'初二·科学老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'T\':{6:\'T\',7:\'施丽\',8:[\'初二社会老师\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',},}],]},\'U\':{6:\'U\',7:\'陈佳浩\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'V\':{6:\'V\',7:\'陈墨\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'W\':{6:\'W\',7:\'陈孙佑\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'X\':{6:\'X\',7:\'褚钱桢\',8:[\'安全委员\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'Y\':{6:\'Y\',7:\'董缪晟\',8:[\'英语课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'Z\':{6:\'Z\',7:\'范文昊\',8:[\'数学课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'10\':{6:\'10\',7:\'管葳澄\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'11\':{6:\'11\',7:\'何彦锐\',8:[\'班长\',\'阳刚哥\'],9:[[{0:\'1W\',4:{5:\'基本信息\',}}],[{0:\'n\',4:{5:\'籍贯：\',y:\'z: 12\'}},{0:\'p\',4:{5:\'江苏省泰州市姜堰区；\',y:\'z: 13\'}},{0:\'n\',4:{5:\'生日：\',y:\'z: 12\'}},{0:\'p\',4:{5:\'1X.1Y.1Z；\',y:\'z: 13\'}}]],},\'14\':{6:\'14\',7:\'简林健\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'15\':{6:\'15\',7:\'姜斯瀚\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'16\':{6:\'16\',7:\'娄黎鑫\',8:[\'社会课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'17\':{6:\'17\',7:\'陆宇杰\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'18\':{6:\'18\',7:\'吕向明\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'19\':{6:\'19\',7:\'闵一睿\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1a\':{6:\'1a\',7:\'莫子谦\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1b\':{6:\'1b\',7:\'潘垚\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1c\':{6:\'1c\',7:\'钱中炎\',8:[\'科学课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1d\':{6:\'1d\',7:\'盛锐浩\',8:[\'体育委员\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1e\':{6:\'1e\',7:\'史博文\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1f\':{6:\'1f\',7:\'史轹文\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1g\':{6:\'1g\',7:\'滕一樊\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1h\':{6:\'1h\',7:\'严家旭\',8:[\'英语课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1i\':{6:\'1i\',7:\'杨钧博\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1j\':{6:\'1j\',7:\'张潘锐\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1k\':{6:\'1k\',7:\'张天宇\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1l\':{6:\'1l\',7:\'郑瑜周\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1m\':{6:\'1m\',7:\'臣相涵\',8:[\'科学课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1n\':{6:\'1n\',7:\'陈凌\',8:[\'语文课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1o\':{6:\'1o\',7:\'陈欣宜\',8:[\'语文课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1p\':{6:\'1p\',7:\'范馨匀\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1q\':{6:\'1q\',7:\'耿秋凌\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1r\':{6:\'1r\',7:\'顾家玥\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1s\':{6:\'1s\',7:\'管沈熠\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1t\':{6:\'1t\',7:\'李香怡\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1u\':{6:\'1u\',7:\'吕晋颐\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1v\':{6:\'1v\',7:\'钦奕晗\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1w\':{6:\'1w\',7:\'施秀钰\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1x\':{6:\'1x\',7:\'汤子菲\',8:[\'社会课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1y\':{6:\'1y\',7:\'王沂栩\',8:[\'社会课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1z\':{6:\'1z\',7:\'翁歆\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1A\':{6:\'1A\',7:\'徐逸锦\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1B\':{6:\'1B\',7:\'徐之悦\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1C\':{6:\'1C\',7:\'徐子懿\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1D\':{6:\'1D\',7:\'严梦淇\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1E\':{6:\'1E\',7:\'杨睿可\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1F\':{6:\'1F\',7:\'张思毓\',8:[\'数学课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1G\':{6:\'1G\',7:\'张榆阳\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1H\':{6:\'1H\',7:\'赵余澜\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1I\':{6:\'1I\',7:\'钟雨旸\',8:[\'英语课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1J\':{6:\'1J\',7:\'周雯超\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1K\':{6:\'1K\',7:\'周妍琪\',8:[],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},\'1L\':{6:\'1L\',7:\'朱子悦\',8:[\'科学课代表\'],9:[[{0:\'p\',4:{5:\'暂无介绍\',}}]],},}m.Q=m.j;21 t(a){22.23(\'24 25\',a);26=a;i b=m[a];k.o(\'6\').27=w.x(b.6);k.o(\'6\').u=()=>l.v(b.6);k.o(\'7\').5=b.7;q(i c s b.8){i d=k.J(\'28\');d.29=c;k.o(\'8\').K(d)}i e=b.9;q(i f s e){i g=k.J(\'2a\');g.2b.2c(\'2d\');q(i h s f){g.K(J(h))}k.o(\'m\').K(g)}}l[\'t\']=t;',62,138,'type||||attribute|textContent|ico|name|tags|content|||||||||var|t002|document|window|details|h6|getElementById||for|param|of|showDetail|onclick|open|Img|getImg|style|margin|split|page|img|imgId|width|height|loading|lazy|alt|createElement|appendChild|t001|t003|t004|t005|t006|t007|t008|t009|t010|s1418|s1419|s1420|s1421|s1422|s1423|s1424|s1425|12px|15px|s1426|s1427|s1428|s1429|s1430|s1431|s1432|s1433|s1434|s1435|s1436|s1437|s1438|s1439|s1440|s1441|s1442|s1443|s1444|s1445|s1446|s1447|s1448|s1449|s1450|s1451|s1452|s1453|s1454|s1455|s1456|s1457|s1458|s1459|s1460|s1461|s1462|s1463|s1464|s1465|s1466|s1467|s1468|s1469|onload|async|location|hash|slice|if|startsWith|h3|br|h4|h2|2010|01|08||function|console|log|show|detail|nowPage|src|tag|innerHTML|div|classList|add|flex'.split('|'),0,{}))
+window.onload = async () => {
+    for (var param of location.hash.slice(1).split('&')) {
+        if (param.startsWith('page=') && param.split('page=')[1])
+            showDetail(param.split('page=')[1]);
+    }
+}
+
+var details = {
+    't001': {
+        ico: 't001',
+        name: '黄娜青',
+        tags: ['初一·语文老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't002': {
+        ico: 't002',
+        name: '王小白',
+        tags: ['初一·数学老师', '初二·数学老师'],
+        content: [
+            [{
+                type: 'h3',
+                attribute: {
+                    textContent: '名人名言：',
+                },
+            }], [{
+                type: 'h6',
+                attribute: {
+                    textContent: '蠢得跟头牛一样；',
+                },
+            }, {
+                type: 'h6',
+                attribute: {
+                    textContent: '浪费北京时间；',
+                },
+            }, {
+                type: 'h6',
+                attribute: {
+                    textContent: '秒杀题；',
+                },
+            }], [{
+                type: 'br',
+            }], [{
+                type: 'h4',
+                attribute: {
+                    textContent: '更多图片（点击查看大图）：',
+                },
+            }], [{
+                type: 'img',
+                attribute: {
+                    imgId: 't002-1',
+                    width: 20,
+                    height: 20,
+                    loading: 'lazy',
+                    alt: '图片缺失或无法显示',
+                    onclick: () => window.open(Img.getImg('t002-1'))
+                },
+            }, {
+                type: 'img',
+                attribute: {
+                    imgId: 't002-2',
+                    width: 20,
+                    height: 20,
+                    loading: 'lazy',
+                    alt: '图片缺失或无法显示',
+                    onclick: () => window.open(Img.getImg('t002-2')),
+                },
+            }, {
+                type: 'img',
+                attribute: {
+                    imgId: 't002-3',
+                    width: 20,
+                    height: 20,
+                    loading: 'lazy',
+                    alt: '图片缺失或无法显示',
+                    onclick: () => window.open(Img.getImg('t002-3')),
+                },
+            }],
+        ]
+    },
+    't003': {
+        ico: 't003',
+        name: '李芳',
+        tags: ['初一·英语老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't004': {
+        ico: 't004',
+        name: '叶倩文',
+        tags: ['初一·科学老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't005': {
+        ico: 't005',
+        name: '张耀',
+        tags: ['初一·班主任', '初一·社会老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't006': {
+        ico: 't006',
+        name: '盛敏',
+        tags: ['初二·语文老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't007': {},
+    't008': {
+        ico: 't008',
+        name: '陈丽娜',
+        tags: ['初二·英语老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't009': {
+        ico: 't009',
+        name: '王晗明',
+        tags: ['初二·班主任', '初二·科学老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't010': {
+        ico: 't010',
+        name: '施丽',
+        tags: ['初二社会老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    's1418': {
+        ico: 's1418',
+        name: '陈佳浩',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1419': {
+        ico: 's1419',
+        name: '陈墨',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1420': {
+        ico: 's1420',
+        name: '陈孙佑',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1421': {
+        ico: 's1421',
+        name: '褚钱桢',
+        tags: ['安全委员'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1422': {
+        ico: 's1422',
+        name: '董缪晟',
+        tags: ['英语课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1423': {
+        ico: 's1423',
+        name: '范文昊',
+        tags: ['数学课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1424': {
+        ico: 's1424',
+        name: '管葳澄',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1425': {
+        ico: 's1425',
+        name: '何彦锐',
+        tags: ['班长', '阳刚哥'],
+        content: [[{
+            type: 'h2',
+            attribute: { textContent: '基本信息', }
+        }], [{
+            type: 'h6',
+            attribute: { textContent: '籍贯：', style: 'margin: 12px' }
+        }, {
+            type: 'p',
+            attribute: { textContent: '江苏省泰州市姜堰区；', style: 'margin: 15px' }
+        }, {
+            type: 'h6',
+            attribute: { textContent: '生日：', style: 'margin: 12px' }
+        }, {
+            type: 'p',
+            attribute: { textContent: '2010.01.08；', style: 'margin: 15px' }
+        }]],
+    },
+    's1426': {
+        ico: 's1426',
+        name: '简林健',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1427': {
+        ico: 's1427',
+        name: '姜斯瀚',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1428': {
+        ico: 's1428',
+        name: '娄黎鑫',
+        tags: ['社会课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1429': {
+        ico: 's1429',
+        name: '陆宇杰',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1430': {
+        ico: 's1430',
+        name: '吕向明',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1431': {
+        ico: 's1431',
+        name: '闵一睿',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1432': {
+        ico: 's1432',
+        name: '莫子谦',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1433': {
+        ico: 's1433',
+        name: '潘垚',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1434': {
+        ico: 's1434',
+        name: '钱中炎',
+        tags: ['科学课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1435': {
+        ico: 's1435',
+        name: '盛锐浩',
+        tags: ['体育委员'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1436': {
+        ico: 's1436',
+        name: '史博文',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1437': {
+        ico: 's1437',
+        name: '史轹文',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1438': {
+        ico: 's1438',
+        name: '滕一樊',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1439': {
+        ico: 's1439',
+        name: '严家旭',
+        tags: ['英语课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1440': {
+        ico: 's1440',
+        name: '杨钧博',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1441': {
+        ico: 's1441',
+        name: '张潘锐',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1442': {
+        ico: 's1442',
+        name: '张天宇',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1443': {
+        ico: 's1443',
+        name: '郑瑜周',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1444': {
+        ico: 's1444',
+        name: '臣相涵',
+        tags: ['科学课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1445': {
+        ico: 's1445',
+        name: '陈凌',
+        tags: ['语文课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1446': {
+        ico: 's1446',
+        name: '陈欣宜',
+        tags: ['语文课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1447': {
+        ico: 's1447',
+        name: '范馨匀',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1448': {
+        ico: 's1448',
+        name: '耿秋凌',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1449': {
+        ico: 's1449',
+        name: '顾家玥',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1450': {
+        ico: 's1450',
+        name: '管沈熠',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1451': {
+        ico: 's1451',
+        name: '李香怡',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1452': {
+        ico: 's1452',
+        name: '吕晋颐',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1453': {
+        ico: 's1453',
+        name: '钦奕晗',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1454': {
+        ico: 's1454',
+        name: '施秀钰',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1455': {
+        ico: 's1455',
+        name: '汤子菲',
+        tags: ['社会课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1456': {
+        ico: 's1456',
+        name: '王沂栩',
+        tags: ['社会课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1457': {
+        ico: 's1457',
+        name: '翁歆',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1458': {
+        ico: 's1458',
+        name: '徐逸锦',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1459': {
+        ico: 's1459',
+        name: '徐之悦',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1460': {
+        ico: 's1460',
+        name: '徐子懿',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1461': {
+        ico: 's1461',
+        name: '严梦淇',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1462': {
+        ico: 's1462',
+        name: '杨睿可',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1463': {
+        ico: 's1463',
+        name: '张思毓',
+        tags: ['数学课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1464': {
+        ico: 's1464',
+        name: '张榆阳',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1465': {
+        ico: 's1465',
+        name: '赵余澜',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1466': {
+        ico: 's1466',
+        name: '钟雨旸',
+        tags: ['英语课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1467': {
+        ico: 's1467',
+        name: '周雯超',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1468': {
+        ico: 's1468',
+        name: '周妍琪',
+        tags: [],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+    's1469': {
+        ico: 's1469',
+        name: '朱子悦',
+        tags: ['科学课代表'],
+        content: [[{
+            type: 'p',
+            attribute: { textContent: '暂无介绍', }
+        }]],
+    },
+}
+
+details.t007 = details.t002;
+
+function showDetail(content) {
+    console.log('show detail', content);
+    nowPage = content;
+    var detailParam = details[content];
+    document.getElementById('ico').src = Img.getImg(detailParam.ico);
+    document.getElementById('ico').onclick = () => window.open(detailParam.ico);
+    document.getElementById('name').textContent = detailParam.name;
+    for (var tag of detailParam.tags) {
+        var tagElement = document.createElement('tag');
+        tagElement.innerHTML = tag;
+        document.getElementById('tags').appendChild(tagElement);
+    }
+
+    var pageParam = detailParam.content;
+    for (var lineParam of pageParam) {
+        var lineDiv = document.createElement('div');
+        lineDiv.classList.add('flex');
+        for (var elementParam of lineParam) {
+            lineDiv.appendChild(createElement(elementParam));
+        }
+        document.getElementById('details').appendChild(lineDiv);
+    }
+}
+window['showDetail'] = showDetail;
