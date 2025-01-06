@@ -90,12 +90,12 @@ class Img {
         't004': 'img/t004.png',
         't005': 'img/t005.png',
         't006': 'img/t006.png',
-        't007': 'img/t007.png',
+
         't008': 'img/t008.png',
         't009': 'img/t009.png',
         't010': 'img/t010.png',
         't011': 'img/t011.png',
-        't012': 'img/t012.png',
+        
         't013': 'img/t013.png',
         't014': 'img/t014.png',
         't015': 'img/t015.png',

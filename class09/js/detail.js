@@ -22,7 +22,7 @@ var details = {
     't002': {
         ico: 't002',
         name: '王小白',
-        tags: ['初一·数学老师', '初二·数学老师'],
+        tags: ['初一·数学老师', '初二·数学老师', '初三·数学老师'],
         content: [
             [{
                 type: 'h3',
@@ -126,7 +126,7 @@ var details = {
     't006': {
         ico: 't006',
         name: '盛敏',
-        tags: ['初二·语文老师'],
+        tags: ['初二·语文老师', '初三·语文老师'],
         content: [
             [{
                 type: 'p',
@@ -167,6 +167,47 @@ var details = {
         ico: 't010',
         name: '施丽',
         tags: ['初二社会老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't011': {},
+    't012': {},
+    't013': {
+        ico: 't013',
+        name: '周慧娟',
+        tags: ['初三·英语老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't014': {
+        ico: 't014',
+        name: '陈佳怡',
+        tags: ['初三·科学老师'],
+        content: [
+            [{
+                type: 'p',
+                attribute: {
+                    textContent: '暂无介绍',
+                },
+            }],
+        ]
+    },
+    't015': {
+        ico: 't015',
+        name: 'unknow',
+        tags: ['初三社会老师'],
         content: [
             [{
                 type: 'p',
