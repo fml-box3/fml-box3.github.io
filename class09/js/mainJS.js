@@ -1,16 +1,37 @@
 document.oncontextmenu = () => false;
 document.onselectstart = () => false;
 document.onkeydown = () => false;
+document.addEventListener('DOMContentLoaded', () => {
+    let ua = detect.parse(navigator.userAgent);
+    document.body.classList.add(ua.device.type);
+})
 window.nowPage = 0;
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toGMTString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i].trim();
+        if (c.indexOf(name) == 0) { return c.substring(name.length, c.length); }
+    }
+    return "";
+}
 
 class Img {
     static loaded = false;
     static imgs = {
+        'error': 'img/error.png',
         '1': 'img/1.png',
         '2': 'img/2.png',
         '3': 'img/3.png',
         '4': 'img/4.png',
-        'error': 'img/error.png',
         's1418': 'img/s1418.png',
         's1419': 'img/s1419.png',
         's1420': 'img/s1420.png',
@@ -82,7 +103,7 @@ class Img {
         't002-1': 'img/t002-1.png',
         't002-2': 'img/t002-2.png',
         't002-3': 'img/t002-3.png',
-    }    
+    }
 
     static getImg(id) {
         if (this.imgs[id]) return this.imgs[id];
@@ -90,11 +111,17 @@ class Img {
     }
 
     static async loadAllImg() {
-        let index = 0;
-        let solve = undefined;
         let loader = document.querySelector("#loader");
         let img = document.querySelector("#loadingimg");
         let text = document.querySelector("#loadingtxt");
+        if (getCookie("imgs") != "") {
+            Img.imgs = JSON.parse(getCookie("imgs"));
+            loader.parentNode && loader.parentNode.removeChild(loader);
+            Img.loaded = true;
+            return;
+        };
+        let index = 0;
+        let solve = undefined;
         for (var id of Object.keys(Img.imgs)) {
             img.src = Img.imgs[id];
             img.onload = function () {
@@ -111,6 +138,7 @@ class Img {
             };
             await new Promise(resolve => solve = resolve);
         }
+        setCookie("imgs", JSON.stringify(Img.imgs), 14);
         loader.parentNode && loader.parentNode.removeChild(loader);
         Img.loaded = true;
     }
